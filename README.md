@@ -94,7 +94,6 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 
 <h1 align="center">
 ✨ Where you can find me ✨
-  
 
 
 <p align="center">
@@ -108,17 +107,7 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
   </a>
 
   <br/>
-  <a href="">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  
 </p>
 </h1>
 
