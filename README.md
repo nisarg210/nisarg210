@@ -5,7 +5,7 @@
 
 <h2 class = "animate__animated animate__zoomIn" >
 
-Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Parth !!
+Hey <img src="" width="30px">, I'm Nisarg !!
 
 </h2>
 
@@ -94,7 +94,6 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 
 <h1 align="center">
 ✨ Where you can find me ✨
-
 
 <p align="center">
   <br/>
