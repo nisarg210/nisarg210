@@ -5,7 +5,7 @@
 
 <h2 class = "animate__animated animate__zoomIn" >
 
-Hey <img src="" width="30px">, I'm Nisarg !!
+Hey <img src="https://raw.githubusercontent.com/nisarg210/nisarg210/main/Hi.gif" width="30px">, I'm Nisarg !!
 
 </h2>
 
