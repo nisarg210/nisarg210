@@ -93,6 +93,8 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 </a>
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg210&langs_count=8)]()
+
 <h1 align="center">
 ✨ Where you can find me ✨
 
