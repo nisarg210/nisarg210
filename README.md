@@ -93,7 +93,7 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 </a>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg210&langs_count=8)]()
+
 
 <h1 align="center">
 ✨ Where you can find me ✨
@@ -115,10 +115,11 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 
 <div align = "center">
 
-![Nisarg's Github Status](https://github-readme-stats.vercel.app/api?username=nisarg210&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Nisarg's Github Status](https://github-readme-stats.vercel.app/api?username=nisarg210&theme=nightowl&show_icons=true)
 
 <hr>
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg210&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
