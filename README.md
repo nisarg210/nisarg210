@@ -14,9 +14,8 @@
 
 ## About Me
 
-Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai University. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is Nisarg Prajapati, I'm a Master of Computer Science Student at NC State University. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 
-<!-- <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif"> -->
 
 ## <strong>My Tech Stack</strong>
 
@@ -113,13 +112,6 @@ Hey, My Name is Nisarg Prajapati, I'm a 3rd year CE student at Dharmsinh Desai U
 </p>
 </h1>
 
-<div align = "center">
 
-![Nisarg's Github Status](https://github-readme-stats.vercel.app/api?username=nisarg210&theme=nightowl&show_icons=true)
-
-<hr>
-
-    ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=nisarg210&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-</div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
